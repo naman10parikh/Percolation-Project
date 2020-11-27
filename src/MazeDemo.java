@@ -1,5 +1,4 @@
 /******************************************************************************
- *  Based on code in https://algs4.cs.princeton.edu/41graph/Maze.java
  *  But here added both DFS and BFS with depth counting
  *  and Union-Find maze generation in addition to the princeton maze generation
  *
