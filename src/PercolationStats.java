@@ -1,12 +1,9 @@
 import java.util.*;
 
-/**
+ /*
  * Compute statistics on Percolation after performing T independent experiments on an N-by-N grid.
  * Compute 95% confidence interval for the percolation threshold, and  mean and std. deviation
  * Compute and print timings
- * 
- * @author Jeff Forbes
- * @author Owen Astrachan
  */
 
 public class PercolationStats {
