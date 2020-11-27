@@ -5,9 +5,6 @@
  * Afterwards, <em>find</em>, <em>connected</em>, and <em>count</em> takes O(1)
  * time but <em>union</em> takes O(N) time.
  * <p>
- * For additional documentation, see
- * <a href="http://algs4.cs.princeton.edu/15uf">Section 1.5</a> of
- * <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
  */
 
 public class QuickFind implements IUnionFind {
