@@ -1,4 +1,4 @@
-/**
+ /*
  * Represents a union-find data structure using quick find.
  * <p>
  * Initializing a data structure with <em>N</em> objects takes linear time.
@@ -8,9 +8,6 @@
  * For additional documentation, see
  * <a href="http://algs4.cs.princeton.edu/15uf">Section 1.5</a> of
  * <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- * 
- * @author jforbes
- *
  */
 
 public class QuickFind implements IUnionFind {
