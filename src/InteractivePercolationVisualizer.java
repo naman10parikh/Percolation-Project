@@ -2,9 +2,6 @@
  *  Compilation:  javac InteractivePercolationVisualizer.java
  *  Execution:    java InteractivePercolationVisualizer N
  *  Dependencies: Percolation.java
- *
- * @author Josh Hug
- * @author Owen Astrachan
  ******************************************************************************/
 
 import java.awt.Font;
