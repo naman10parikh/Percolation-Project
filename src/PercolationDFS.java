@@ -10,10 +10,6 @@ import java.util.Arrays;
  * and fields to be more consistent with Java/Duke standards and rewriting code
  * to reflect the DFS/flood-fill techniques used in discussion at Duke.
  * <P>
- * 
- * @author Kevin Wayne, wayne@cs.princeton.edu
- * @author Owen Astrachan, ola@cs.duke.edu
- * @author Jeff Forbes, forbes@cs.duke.edu
  */
 
 public class PercolationDFS implements IPercolate {
