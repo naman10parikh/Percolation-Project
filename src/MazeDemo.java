@@ -2,10 +2,6 @@
  *  Based on code in https://algs4.cs.princeton.edu/41graph/Maze.java
  *  But here added both DFS and BFS with depth counting
  *  and Union-Find maze generation in addition to the princeton maze generation
- * @author Princeton staff
- * @author Owen Astrachan
- * @date October 20, 2020
- *
  *
  * Note Stdraw uses (x,y) coordinates and *NOT* (row,col) coordinates
  * so this code uses (x,y) with lower-right corner at 0,0 which is off-grid
