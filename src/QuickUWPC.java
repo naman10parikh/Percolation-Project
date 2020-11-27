@@ -1,16 +1,4 @@
 /******************************************************************************
- *  Compilation:  javac WeightedQuickUnionPathCompressionUF.java
- *  Execution:  java WeightedQuickUnionPathCompressionUF < input.txt
- *  Dependencies: StdIn.java StdOut.java
- *  Data files:   http://algs4.cs.princeton.edu/15uf/tinyUF.txt
- *                http://algs4.cs.princeton.edu/15uf/mediumUF.txt
- *                http://algs4.cs.princeton.edu/15uf/largeUF.txt
- *
- *  Weighted quick-union with path compression.
- *
- ******************************************************************************/
-
-/**
  *  The {@code WeightedQuickUnionPathCompressionUF} class represents a
  *  union–find data structure.
  *  It supports the <em>union</em> and <em>find</em> operations, along with
@@ -24,11 +12,6 @@
  *  time. Moreover, the amortized time per <em>union</em>, <em>find</em>,
  *  and <em>connected</em> operation has inverse Ackermann complexity.
  *  <p>
- *  For additional documentation, see <a href="http://algs4.cs.princeton.edu/15uf">Section 1.5</a> of
- *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
- *     
- *  @author Robert Sedgewick
- *  @author Kevin Wayne
  */
 public class QuickUWPC implements IUnionFind {
     private int[] parent;  // parent[i] = parent of i
