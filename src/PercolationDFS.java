@@ -1,14 +1,9 @@
 import java.util.Arrays;
 
-/**
+ /*
  * Simulate percolation thresholds for a grid-base system using
  * depth-first-search, aka 'flood-fill' techniques for determining if the top of
  * a grid is connected to the bottom of a grid.
- * <P>
- * Modified from the COS 226 Princeton code for use at Duke. The modifications
- * consist of supporting the <code>IPercolate</code> interface, renaming methods
- * and fields to be more consistent with Java/Duke standards and rewriting code
- * to reflect the DFS/flood-fill techniques used in discussion at Duke.
  * <P>
  */
 
